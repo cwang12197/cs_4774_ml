@@ -1,4 +1,4 @@
-School,Division,End_of_Year_Average_Daily_Membership,School_Level_Expenditures_Per_Pupil_Federal,School_Level_Expenditures_Per_Pupil_State,Division_Level_Expenditures_Per_Pupil_Federal,Division_Level_Expenditures_Per_Pupil_State,Total_Per_Pupil_Expenditures,Total_Expenditures,Sch_Div
+School Name,Division Name,End_of_Year_Average_Daily_Membership,School_Level_Expenditures_Per_Pupil_Federal,School_Level_Expenditures_Per_Pupil_State,Division_Level_Expenditures_Per_Pupil_Federal,Division_Level_Expenditures_Per_Pupil_State,Total_Per_Pupil_Expenditures,Total_Expenditures,Sch_Div
 Galax Elementary,Galax City Public Schools,673.77,1391,6228,1991,3758,13368,9007096,Galax Elementary Galax City Public Schools
 Galax High,Galax City Public Schools,364.22,582,11040,1991,3758,17370,6326623,Galax High Galax City Public Schools
 Galax Middle,Galax City Public Schools,311.97,526,7163,1991,3758,13438,4192233,Galax Middle Galax City Public Schools
