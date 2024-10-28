@@ -1,4 +1,4 @@
-School,Division,Dropouts,Students_in_the_Cohort,Cohort_Dropout_Rate,Sch_Div
+School Name,Division Name,Dropouts,Students_in_the_Cohort,cohort_dropout_rate,Sch_Div
 Galax High,Galax City Public Schools,6,83,7.23,Galax High Galax City Public Schools
 Lee High,Lee County Public Schools,23,181,12.71,Lee High Lee County Public Schools
 Thomas Walker High,Lee County Public Schools,2,50,4,Thomas Walker High Lee County Public Schools

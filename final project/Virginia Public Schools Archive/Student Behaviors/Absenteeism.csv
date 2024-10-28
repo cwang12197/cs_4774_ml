@@ -1,4 +1,4 @@
-School,Division,Number_of_Students_Missing_10__or_More_of_the_Days_Enrolled,Number_of_Students_Enrolled_for_Half_the_Year_or_More,Chronic_Absenteeism_Rate,Sch_Div
+School Name,Division Name,Number_of_Students_Missing_10__or_More_of_the_Days_Enrolled,Number_of_Students_Enrolled_for_Half_the_Year_or_More,chronic_absenteeism_rate,Sch_Div
 Galax Elementary,Galax City Public Schools,96,604,15.89,Galax Elementary Galax City Public Schools
 Galax High,Galax City Public Schools,85,363,23.42,Galax High Galax City Public Schools
 Galax Middle,Galax City Public Schools,43,313,13.74,Galax Middle Galax City Public Schools
