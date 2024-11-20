@@ -1,0 +1,5 @@
+model,mean_cv_mse,test_mse,test_mae,test_r2,best_params
+RandomForest_1,2.1641032540145276e-05,2.556544226428828e-06,0.0005526582959731,0.9998977366236153,"{'n_estimators': 75, 'min_samples_split': 9, 'min_samples_leaf': 3, 'max_depth': 15}"
+RandomForest_1,2.1641032540145276e-05,2.556544226428828e-06,0.0005526582959731,0.9998977366236153,"{'n_estimators': 75, 'min_samples_split': 9, 'min_samples_leaf': 3, 'max_depth': 15}"
+RandomForest_1,2.1820785734626663e-05,3.5660199597396303e-06,0.0012813632288486813,0.9998573569596142,"{'n_estimators': 200, 'min_samples_split': 6, 'min_samples_leaf': 3, 'max_depth': 5}"
+LinearRegression,,2.959081867906919e-32,1.2890563252389756e-16,1.0,"{'copy_X': True, 'fit_intercept': True, 'n_jobs': None, 'positive': False}"
